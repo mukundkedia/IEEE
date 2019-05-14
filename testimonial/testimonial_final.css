@@ -1,0 +1,53 @@
+.wrapper{
+   width: 1170px;
+    margin: 0 auto;
+}
+.section-padding{
+    padding: 20px 0;
+}
+.testimonial-carousel{
+    margin: 5% auto;
+}
+.img-area{
+    height: 100px;
+    width: 100px;
+    display: block;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+
+.single-testi{
+    background: #efefef;
+    text-align: center;
+    padding: 10%;
+    }
+
+
+
+
+
+
+
+
+
+
+/*.single-testi{
+    margin: 50px;
+    padding-top: 100px;
+}
+.img-area{
+    padding: 40px 10px 10px;
+    background-color: #efefef;
+}
+.img-area img{
+    top:-60px;
+    position: absolute;
+}
+.mk-img{
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+    overflow: hidden;
+}
